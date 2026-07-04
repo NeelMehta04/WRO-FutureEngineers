@@ -1,0 +1,19 @@
+camera:
+
+  width: 640
+
+  height: 480
+
+  fps: 30
+
+  autofocus: continuous
+
+display:
+
+  window_name: "WRO Future Engineers"
+
+  show_fps: true
+
+logging:
+
+  enabled: true
