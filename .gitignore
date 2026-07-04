@@ -1,0 +1,23 @@
+# Virtual Environment
+software/wrovenv/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Logs
+logs/
+
+# Output
+output/
+
+# Models
+models/*.onnx
+models/*.pth
